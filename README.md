@@ -1,6 +1,6 @@
 ### Hi, I'm Anmol 👋
 
-**Biotech × AI builder.** Currently at **Lemnisca**. IIT Delhi, Biochemical Engineering & Biotechnology. I work on bioprocess modelling and molecular simulation, and I build AI agents and developer tools.
+**Biotech × AI builder.** Bioprocess Systems Engineer at **Lemnisca**. IIT Delhi, Biochemical Engineering & Biotechnology. I work on bioprocess modelling and molecular simulation, and I build AI agents and developer tools.
 
 #### 🧬 Bioprocess & molecular simulation
 - **[COMPASS](https://github.com/goelanmol124/BTP_2_compass)**: adaptive sampling and collective-variable transfer for helix–coil peptides (OpenMM, TICA). Bachelor's thesis.
