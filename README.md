@@ -10,6 +10,7 @@
 #### 🤖 AI agents & tools
 - **[jupyter-mcp-agent](https://github.com/goelanmol124/jupyter-mcp-agent)**: MCP server that lets AI coding agents run and edit Jupyter notebooks on a real kernel.
 - **[layout-redact](https://github.com/goelanmol124/layout-redact)**: offline PII redaction for scanned forms (skeleton detection → RANSAC homography → template projection).
+- **[indic-pdf-translator](https://github.com/goelanmol124/indic-pdf-translator)**: layout-preserving translation of scanned Hindi legal PDFs (vision OCR → HTML layout → cross-page merge → translation).
 - **[PRISM](https://github.com/goelanmol124/PRISM)**: multi-agent AI that turns long videos into captioned vertical shorts.
 - **[open-challenge-platform](https://github.com/goelanmol124/open-challenge-platform)**: config-driven template for problem → solutions → AI evaluation → endorsement (challenges, hackathons, research bounties).
 - **[thought-map](https://github.com/goelanmol124/thought-map)**: question-driven brainstorming that grows a mind-map style idea tree, local-first.
