@@ -5,6 +5,7 @@
 #### 🧬 Bioprocess & molecular simulation
 - **[COMPASS](https://github.com/goelanmol124/BTP_2_compass)**: adaptive sampling and collective-variable transfer for helix–coil peptides (OpenMM, TICA). Bachelor's thesis.
 - **[IndPenSim (Python)](https://github.com/goelanmol124/IndPenSim_Python)**: Python port of the IndPenSim V2 industrial penicillin fermentation simulator.
+- **[Proinsulin fed-batch optimisation](https://github.com/goelanmol124/proinsulin-fedbatch-optimization)**: mechanistic *E. coli* fed-batch simulator; multi-fidelity Bayesian optimisation reaches ~4× the trial-and-error baseline in about 40 batches.
 - **[CV extraction & validation](https://github.com/goelanmol124/CVExtractionAndValidation)**: learning collective variables with SPIB for T4 lysozyme metadynamics · [mutation & flexibility](https://github.com/goelanmol124/DoMutationMatter)
 
 #### 🤖 AI agents & tools
